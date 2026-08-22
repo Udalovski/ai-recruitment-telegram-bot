@@ -1,0 +1,16 @@
+# Recruitment Knowledge Base & Candidate Evaluation Criteria
+
+## Available Vacancies
+1. Remote Customer Support Specialist
+2. Content Moderator / Community Manager
+3. Junior Technical Support Engineer
+
+## Candidate Evaluation Stages
+- Stage 1: Initial Questioning & Resume Screening (Experience, Language Proficiency, Availability)
+- Stage 2: Automated Qualification Interview via Claude AI
+- Stage 3: Practical Test Assignment Evaluation & Score Synchronization
+- Stage 4: Shift Selection & Final HR Review
+
+## Requirements & Policies
+- Stable internet connection (min 50 Mbps).
+- Professional communication skills and punctuality.

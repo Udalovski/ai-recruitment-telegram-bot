@@ -1,0 +1,12 @@
+.env
+credentials.json
+*.log
+*.log.*
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.idea/
+.vscode/
+postgres_data/
